@@ -1,0 +1,44 @@
+/*#AEB4A9*/
+/*#E0C1B3*/
+/*D89A9E*/
+/*#C37D92*/
+/*#C5D9E2*/
+
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #AEB4A9;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: black;
+    height: 1.5em;
+}
+
+img{
+    margin: 2rem 0rem 0rem  ;
+    width: 35rem;
+    height: 35rem;
+    border-radius: 100%; /* make it round*/
+    box-shadow: 0 0 20px 10px rgb(0, 0, 0, 0.2);
+}
+img:hover {
+    margin: 2rem 0rem 0rem;
+    width: 38rem;
+    height: 38rem;
+    border-radius: 100%;
+    /* make it round*/
+    box-shadow: 0 0 20px 10px rgb(0, 0, 0, 0.2);
+}
+#logo{
+    color: white;
+    /* margin: ; */
+    padding: 0.5rem 1.5rem  0 1.5rem ;
+    box-shadow: 0 0 20px 10px rgb(0, 0, 0, 0.2);
+}
+
+.image-container{
+    text-align: center;
+}
