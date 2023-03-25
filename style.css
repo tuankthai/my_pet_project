@@ -1,8 +1,13 @@
 /*#AEB4A9*/
-/*#E0C1B3*/
-/*D89A9E*/
-/*#C37D92*/
+/*#E0C1B3*/ /* no good */
+/*#D89A9E*/ /* no good */
+/*#C37D92*/ /* no good */
 /*#C5D9E2*/
+/*#A4BFEB*/
+/*#90C2E7*/
+/*#B5F8FE*/
+/*#4E5340*/
+/*#3E4E4C*/
 
 body{
     font-family: Arial, sans-serif;
@@ -34,6 +39,7 @@ img:hover {
 }
 #logo{
     color: white;
+    font-weight: 100;
     /* margin: ; */
     padding: 0.5rem 1.5rem  0 1.5rem ;
     box-shadow: 0 0 20px 10px rgb(0, 0, 0, 0.2);
@@ -41,4 +47,21 @@ img:hover {
 
 .image-container{
     text-align: center;
+}
+
+footer{
+    background-color: #B7D1DA;
+}
+
+h2{
+    color: #4E5340;
+    font-family: DauphinPlain;
+    font-weight: 400;
+    font-style: italic;
+}
+
+h1{
+    color: #3E4E4C;
+    font-style:oblique;
+    /* background-color: black ; */
 }
